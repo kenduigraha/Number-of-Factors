@@ -1,7 +1,7 @@
 {
-  "name": "number_of_factors",
+  "name": "factors-number",
   "version": "1.0.1",
-  "description": "get number of factors of a number",
+  "description": "get factors of a number",
   "main": "index.js",
   "scripts": {
     "test": "node test.js"
