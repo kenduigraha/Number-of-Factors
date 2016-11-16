@@ -1,6 +1,6 @@
 {
   "name": "factors-number",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "get factors of a number",
   "main": "index.js",
   "scripts": {
