@@ -2,14 +2,14 @@
 Number of Factors
 
 ## How To Install
-`npm i -S number_of_factors`
+`npm install --save factors-number`
 
 ## How To Use Package
 ```sh
 /*
   * require library
 */
-var factor = require('number_of_factors')
+const factor = require('factors-number')
 
 /*
   * test the package
@@ -20,7 +20,6 @@ factor.numberFactors(18)
 
 ## How to Test Package
 `node test.js OR npm test`
-
 
 
 ## License
