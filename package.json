@@ -1,0 +1,26 @@
+{
+  "name": "number_of_factors",
+  "version": "1.0.0",
+  "description": "get number of factors of a number",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kenduigraha/Number-of-Factors.git"
+  },
+  "keywords": [
+    "factors",
+    "number"
+  ],
+  "author": "Ken Duigraha Putra",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kenduigraha/Number-of-Factors/issues"
+  },
+  "homepage": "https://github.com/kenduigraha/Number-of-Factors#readme",
+  "engines": {
+    "node": ">=6.0.0"
+  }
+}
